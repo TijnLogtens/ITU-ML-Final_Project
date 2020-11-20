@@ -14,5 +14,5 @@ methods, we may use only any standard Python libraries and the numerical librari
 and SciPy. The only machine learning library we may make use of is TensorFlow, i.e Keras, or
 any other similarly high-level APIs are not allowed.
 
-For the remaining methods, M3, M4, and M5, you may use any library you wish with no
+For the remaining methods, M3, M4, and M5, we may use any library we wish with no
 restrictions.
